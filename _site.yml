@@ -1,14 +1,15 @@
 name: "."
-title: "Ashley and Ryan's Red Hot Wedding"
+title: "Ashley and Ryan's Red Hot Wedding!"
 description: |
-  mfeo
+  Info page for wedding hot sauces
 output_dir: "docs"
 navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "About the sauces"
       href: about.html
     - text: "Ingredients"
       href: ingredients.html
 output: distill::distill_article
+theme: hot_sauce.css

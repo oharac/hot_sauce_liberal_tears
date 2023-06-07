@@ -1,12 +1,20 @@
 ---
-# title: "Ashley and Ryan, June 10, 2023"
+title: "Congratulations"
 image: "img/hot_sauces.jpg"
+links:
+  - label: "more about Casey"
+    url: http://www.oharascience.com
 output:
   postcards::jolla
 site: distill::distill_website
 ---
  
-Congratulations to our dear friends Ashley and Ryan on their day of celebration!
+to our dear friends Ashley and Ryan on their big day of celebration!  Please enjoy these home-made hot sauces designed and crafted to ensure their marriage stays spicy!
 
-Both the Scotch Bonnet Fuyu Sauce (red sauce, leaf label, very spicy) and Anaheim Tomatillo Sauce (green sauce, flower label, very mild) sauces were made by fermenting home grown chili peppers with other ingredients.  Peppers and other vegetable ingredients were chopped finely and mashed with salt (3% by weight), allowed to ferment for two weeks, then stabilized with vinegar and additional spices.  Additional fermentation may occur slowly – keep refrigerated for best flavor.  
+#### Scotch Bonnet Fuyu Sauce
 
+Red sauce with leaf label: very spicy!
+
+#### Anaheim Tomatillo Sauce
+
+Green sauce with flower label: very mild
