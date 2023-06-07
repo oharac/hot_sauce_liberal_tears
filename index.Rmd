@@ -2,14 +2,14 @@
 title: "Congratulations"
 image: "img/hot_sauces.jpg"
 links:
-  - label: "more about Casey"
+  - label: "more about the hot sauce maker"
     url: http://www.oharascience.com
 output:
   postcards::jolla
 site: distill::distill_website
 ---
  
-to our dear friends Ashley and Ryan on their big day of celebration!  Please enjoy these home-made hot sauces designed and crafted to ensure their marriage stays spicy!
+to our dear friends Ashley and Ryan on their big day of celebration!  Please enjoy these home-made hot sauces designed and crafted to ensure their marriage stays spicy!  See tabs above for more information on each sauce.
 
 #### Scotch Bonnet Fuyu Sauce
 
