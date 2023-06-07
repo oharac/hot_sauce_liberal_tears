@@ -7,7 +7,7 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About the sauces"
+    - text: "About the Sauces"
       href: about.html
     - text: "Ingredients"
       href: ingredients.html

@@ -9,7 +9,7 @@ output:
 site: distill::distill_website
 ---
  
-to our dear friends Ashley and Ryan on their big day of celebration!  Please enjoy these home-made hot sauces designed and crafted to ensure their marriage stays spicy!  See tabs above for more information on each sauce.
+to our dear friends Ashley and Ryan on their big day of celebration!  Please enjoy these home-made hot sauces designed and crafted to ensure their marriage stays spicy!  
 
 #### Scotch Bonnet Fuyu Sauce
 
@@ -18,3 +18,5 @@ Red sauce with leaf label: very spicy!
 #### Anaheim Tomatillo Sauce
 
 Green sauce with flower label: very mild
+
+#### See tabs at the top for more info on the sauces!
