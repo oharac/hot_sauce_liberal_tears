@@ -84,3 +84,9 @@ h2 {
 body {
   background-color: rgba(255, 255, 200, 0.2);
 }
+
+a {
+    color: #006622;
+    text-decoration: underline;
+    background-color: transparent;
+}

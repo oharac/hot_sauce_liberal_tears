@@ -2,7 +2,7 @@
 title: "Congratulations"
 image: "img/hot_sauces.jpg"
 links:
-  - label: "more about the hot sauce maker"
+  - label: "meet the hot sauce maker"
     url: http://www.oharascience.com
 output:
   postcards::jolla
@@ -19,4 +19,4 @@ Red sauce with leaf label: very spicy!
 
 Green sauce with flower label: very mild
 
-#### See tabs at the top for more info on the sauces!
+#### [About the sauces](about.html) | [Ingredients](ingredients.html)
