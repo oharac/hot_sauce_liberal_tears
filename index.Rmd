@@ -1,5 +1,5 @@
 ---
-title: "Congratulations"
+title: "Liberal Tears"
 image: "img/hot_sauces.jpg"
 links:
   - label: "meet the hot sauce maker"
@@ -8,15 +8,19 @@ output:
   postcards::jolla
 site: distill::distill_website
 ---
- 
-to our dear friends Ashley and Ryan on their big day of celebration!  Please enjoy these home-made hot sauces designed and crafted to ensure their marriage stays spicy!  
 
-#### Scotch Bonnet Fuyu Sauce
+This set of spicy home-fermented hot sauces will bring liberal tears to your eyes and flavorful heat to your favorite foods.  Donated for the 2023 Roosevelt-Hamer fundraising dinner to help raise funds for the Santa Barbara Democratic Party!
 
-Red sauce with leaf label: very spicy!
+#### Fatalii Fuyu
 
-#### Anaheim Tomatillo Sauce
+A little sweetness from Fuyu persimmons and intense citrusy spice from aptly-named Fatalii peppers.  
 
-Green sauce with flower label: very mild
+#### Tabasco 2.0
+
+Densely packed with punchy Tabasco peppers - much hotter than the store-bought stuff!
+
+#### Plum Habanero
+
+Plum tartness softens the kick from an assortment of habanero varieties.
 
 #### [About the sauces](about.html) | [Ingredients](ingredients.html)

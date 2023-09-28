@@ -1,7 +1,7 @@
 name: "."
-title: "Ashley and Ryan's Red Hot Wedding!"
+title: "Liberal Tears"
 description: |
-  Info page for wedding hot sauces
+  Info page for hot sauce donated for Democratic party fundraiser
 output_dir: "docs"
 navbar:
   right:
