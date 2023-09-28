@@ -1,6 +1,5 @@
 ---
-title: "Liberal Tears"
-image: "img/hot_sauces.jpg"
+image: "img/hot_sauce.jpg"
 links:
   - label: "meet the hot sauce maker"
     url: http://www.oharascience.com
